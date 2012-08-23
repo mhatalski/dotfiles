@@ -22,7 +22,6 @@ alias ll='ls -l'                              # long list
 alias la='ls -A'                              # all but . and ..
 alias lla='ll -A'
 alias l='ls -CF'                              #
-alias llr='ll -rt|tail -15'
 #
 alias .='pwd'
 alias ..='cd ..;.'
